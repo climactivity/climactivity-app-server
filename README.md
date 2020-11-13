@@ -1,4 +1,4 @@
-# Enviroommate Server
+# climactivity app server 
 
 ## Projektziele
 
